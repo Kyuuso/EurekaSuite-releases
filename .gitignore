@@ -1,0 +1,4 @@
+# Packages and binaries are release assets, never tracked files
+*.zip
+*.dll
+*.pdb
