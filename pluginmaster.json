@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "Author": "Kyuuso",
+    "Name": "Eureka Suite",
+    "InternalName": "EurekaSuite",
+    "AssemblyVersion": "2.0.1.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "All-in-one Eureka suite: aggro radars, live tracker sync, bunny helpers and Logos & Loot errands.",
+    "Description": "All-in-one quality-of-life suite for Eureka (Anemos, Pagos, Pyros, Hydatos). Features lethal aggro radar visualizers (sleeping dragon sound aggro, low HP blood aggro, sprite magic aggro, vision cones, combat cast alerts), real-time ffxiv-eureka.com Phoenix WebSocket tracker synchronization, bunny FATE timer and coffer markers, and Logos & Loot errands. Bunny FATE automation is unlocked by a privately granted access package.",
+    "Tags": [
+      "eureka",
+      "suite",
+      "aggro",
+      "radar",
+      "tracker",
+      "dragons",
+      "sound",
+      "bunnies",
+      "automation",
+      "anemos",
+      "pagos",
+      "pyros",
+      "hydatos"
+    ],
+    "DownloadLinkInstall": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.0.1/EurekaSuite-v2.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.0.1/EurekaSuite-v2.0.1.zip",
+    "TestingAssemblyVersion": "2.0.1.0",
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkTesting": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.0.1/EurekaSuite-v2.0.1.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
+    "DownloadCount": 27
+  }
+]
