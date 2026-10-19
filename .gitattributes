@@ -1,0 +1,3 @@
+# Keep every file byte-for-byte as committed. The root EurekaSuite.json must match the copy inside the stable ZIP,
+# so Git must not convert its line endings.
+* -text
