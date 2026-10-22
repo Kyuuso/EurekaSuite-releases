@@ -3,7 +3,7 @@
     "Author": "Kyuuso",
     "Name": "Eureka Suite",
     "InternalName": "EurekaSuite",
-    "AssemblyVersion": "2.1.4.0",
+    "AssemblyVersion": "2.2.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "All-in-one Eureka suite: aggro radars, live tracker sync, bunny helpers and Logos & Loot errands.",
@@ -23,12 +23,12 @@
       "pyros",
       "hydatos"
     ],
-    "DownloadLinkInstall": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.1.4/EurekaSuite-v2.1.4.zip",
-    "DownloadLinkUpdate": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.1.4/EurekaSuite-v2.1.4.zip",
-    "TestingAssemblyVersion": "2.1.4.0",
+    "DownloadLinkInstall": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.2.0/EurekaSuite-v2.2.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.2.0/EurekaSuite-v2.2.0.zip",
+    "TestingAssemblyVersion": "2.2.0.0",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.1.4/EurekaSuite-v2.1.4.zip",
+    "DownloadLinkTesting": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.2.0/EurekaSuite-v2.2.0.zip",
     "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
-    "DownloadCount": 78
+    "DownloadCount": 82
   }
 ]
