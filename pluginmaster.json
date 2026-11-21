@@ -25,11 +25,11 @@
     ],
     "DownloadLinkInstall": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.2.0/EurekaSuite-v2.2.0.zip",
     "DownloadLinkUpdate": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.2.0/EurekaSuite-v2.2.0.zip",
-    "TestingAssemblyVersion": "2.9.10.0",
+    "TestingAssemblyVersion": "2.9.11.0",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.9.10-preview/EurekaSuite-v2.9.10-preview.zip",
+    "DownloadLinkTesting": "https://github.com/Kyuuso/EurekaSuite-releases/releases/download/v2.9.11-preview/EurekaSuite-v2.9.11-preview.zip",
     "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
-    "DownloadCount": 392,
-    "TestingChangelog": "2.9.10, changes since 2.9.9:\n- Relic tab split in three: Main (Start, jobs, what the selected jobs still need), Manual (Do the next step runs one errand and stops, the one-time quests, party members and the status of every job) and Settings (party sharing).\n- Trips to a relic NPC wait up to 3 minutes to leave a duty before teleporting.\n- When the game refuses the dismount next to a relic NPC (roof, slope, water), the plugin tries other ground nearby for up to 60 s. It used to give up after 5 dismounts.\nNot tested in game yet: all of the above."
+    "DownloadCount": 400,
+    "TestingChangelog": "2.9.11, changes since 2.9.9:\n- No vnavmesh path is asked for while the zone's mesh is not ready (a zone vnavmesh has not built yet). Paths asked for during the build failed, the stops after them cancelled the build, and it started over: the Anima FATE farm skipped three FATEs in the Sea of Clouds that way.\n- Bunny routes and bunny fights do not path until the mesh is ready.\n- Relic tab split in three: Main (Start, jobs, what the selected jobs still need), Manual (Do the next step runs one errand and stops, the one-time quests, party members and the status of every job) and Settings (party sharing).\n- Trips to a relic NPC wait up to 3 minutes to leave a duty before teleporting.\n- When the game refuses the dismount next to a relic NPC (roof, slope, water), the plugin tries other ground nearby for up to 60 s. It used to give up after 5 dismounts.\nNot tested in game yet: all of the above."
   }
 ]
